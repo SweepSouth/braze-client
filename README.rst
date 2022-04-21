@@ -18,7 +18,7 @@ One Time Setup
   cd braze-client
 
   # Set up a virtualenv using virtualenvwrapper with the same name as the repo and activate it
-  mkvirtualenv -p python3.8 braze-client
+  mkvirtualenv -p python3.7 braze-client
   or
   virtualenv --python=python3 <venv>
 
